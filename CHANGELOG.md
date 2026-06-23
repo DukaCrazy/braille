@@ -1,4 +1,15 @@
 
+## 2026/06/23 - Version 0.0.3 Summary
+### braillebase Version 0.0.15 Summary
+- Invocation of the special append methods via the simple append method using the third argument.
+- Separating the RTL module for languages like Arabic, Hebrew, and Persian.
+- Specific rules for uppercase Latin letters.
+- Spelling fix in method names: lettr -> letter
+### braillebasejapanese Version 0.0.9 Summary
+### braillebaseportuguese Version 0.0.5 Summary
+### braillebasearabic Version 0.0.3 Summary
+### braillebaseenglish Version 0.0.2 Summary
+
 ## 2026/06/14 - Version 0.0.2 Summary
 ### braillebase Version 0.0.13 Summary
 - Scope Optimization for Latin Characters: Updated internal variables within the methods responsible for parsing and validating Latin alphabet rules.
