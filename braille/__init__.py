@@ -1,3 +1,4 @@
+# 0.1.1
 from braillebase import *
 from brailletable import *
 from braillebasejapanese import *
