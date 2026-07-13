@@ -1,4 +1,15 @@
 
+
+## 2026/07/13 - Version 0.1.1 Summary
+- Addition of the base reverse Braille.
+- Definition of the base architecture.
+### braillebase Version 0.1.1 Summary
+### braillebasejapanese Version 0.1.1 Summary
+### braillebaseportuguese Version 0.1.1 Summary
+### braillebasearabic Version 0.1.1 Summary
+### braillebaseenglish Version 0.1.1 Summary
+### brailletable Version 1.0.2 Summary
+
 ## 2026/06/23 - Version 0.0.3 Summary
 ### braillebase Version 0.0.15 Summary
 - Invocation of the special append methods via the simple append method using the third argument.
