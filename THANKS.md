@@ -24,7 +24,9 @@
 
 ### Font Base
         Japanese
-        ... Sorry. Under development
+        https://www.mhlw.go.jp/tenji/index.html
+        https://www.nittento.or.jp/images/pdf/information/braille_lists.pdf
+        https://www.hokuten.com/document_gojuon.html#mark3
         Portuguese
         https://fisicaembraille.ufpr.br/alfabeto-braille/
         https://lepix.org/braillept/
