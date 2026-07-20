@@ -1,17 +1,17 @@
 
 ## lib
 
-### braillebase 0.1.1
+### braillebase 0.1.2
 - https://github.com/DukaCrazy/braillebase
 ### brailletable 1.0.2
 - https://github.com/DukaCrazy/brailletable
-### braillebasejapanese 0.1.1
+### braillebasejapanese 0.1.2
 - https://github.com/DukaCrazy/braillebasejapanese
-### braillebaseportuguese 0.1.1
+### braillebaseportuguese 0.1.2
 - https://github.com/DukaCrazy/braillebaseportuguese
-### braillebasearabic 0.1.1
+### braillebasearabic 0.1.2
 - https://github.com/DukaCrazy/braillebasearabic
-### braillebaseenglish 0.1.1
+### braillebaseenglish 0.1.2
 - https://github.com/DukaCrazy/braillebaseenglish
 
 # BrailleBase
