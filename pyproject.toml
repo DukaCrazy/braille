@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "braille"
-version = "0.1.1"
+version = "0.1.2"
 description = "A complete and extensible Unicode Braille processing library. Multilanguage version"
 authors = [
     { name = "Nagao Yuji" }
@@ -14,12 +14,12 @@ license = { text = "Apache-2.0" }
 requires-python = ">=3.6"
 
 dependencies = [
-    "braillebase>=0.1.1",
+    "braillebase>=0.1.2",
     "brailletable>=1.0.2",
-    "braillebasejapanese>=0.1.1",
-    "braillebaseportuguese>=0.1.1",
-    "braillebasearabic>=0.1.1",
-    "braillebaseenglish>=0.1.1"
+    "braillebasejapanese>=0.1.2",
+    "braillebaseportuguese>=0.1.2",
+    "braillebasearabic>=0.1.2",
+    "braillebaseenglish>=0.1.2"
 ]
 
 keywords = ["braille", "unicode", "accessibility", "API", "binary", "blind", "education"]
