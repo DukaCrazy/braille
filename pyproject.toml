@@ -19,7 +19,8 @@ dependencies = [
     "braillebasejapanese>=0.1.2",
     "braillebaseportuguese>=0.1.2",
     "braillebasearabic>=0.1.2",
-    "braillebaseenglish>=0.1.2"
+    "braillebaseenglish>=0.1.2",
+    "braillebaseviet>=0.1.2"
 ]
 
 keywords = ["braille", "unicode", "accessibility", "API", "binary", "blind", "education"]
