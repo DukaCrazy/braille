@@ -1,4 +1,7 @@
 
+## 2026/08/02 - Version 0.1.3 Summary
+- Addition of the braillebaseviet.
+
 ## 2026/07/20 - Version 0.1.2 Summary
 - braillebase 0.1.2
 - Bug fix for the [translate_text_to_reverse braille()] method.
