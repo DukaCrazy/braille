@@ -13,7 +13,9 @@
 - https://github.com/DukaCrazy/braillebasearabic
 ### braillebaseenglish 0.1.2
 - https://github.com/DukaCrazy/braillebaseenglish
-
+### braillebaseviet 0.1.2
+- https://github.com/DukaCrazy/braillebaseviet
+  
 # BrailleBase
 ## What is BrailleBase
 - BrailleBase is an algorithm that translates characters into Braille.
