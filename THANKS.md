@@ -45,6 +45,7 @@
         https://www.brailleart.org/pdf/Brailleart-Braille-Alphabet-English-Language-Letter.pdf
         https://braillecomicsclub.substack.com/p/the-unified-english-braille-alphabet
         https://braille.codes/tables.html
+        https://www.edvisionservices.org/Formsupdated/PDFForms/UEB_chart_and_reference_guide.pdf
         Viet
         https://chinhphu.vn/default.aspx?pageid=27160&docid=198030
         https://donghanhviet.vn/chu-noi-nhung-cham-nho-ki-dieu-doi-voi-nguoi-khiem-thi/
@@ -52,4 +53,3 @@
         https://hanoidep.vn/ky-hieu-chu-noi/
         https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_ch%E1%BB%AF_n%E1%BB%95i_ti%E1%BA%BFng_Vi%E1%BB%87t
         https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-15-2019-TT-BGDDT-Quy-dinh-chuan-quoc-gia-ve-chu-noi-Braille-cho-nguoi-khuyet-tat-424614.aspx
-
