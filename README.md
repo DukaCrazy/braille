@@ -2,20 +2,25 @@
 # - pip install braille
 
 ## lib
-### braillebase 0.1.3
+### braillebase 0.1.5
 - https://github.com/DukaCrazy/braillebase
-### brailletable 1.0.4
+### brailletable 1.0.2
 - https://github.com/DukaCrazy/brailletable
-### braillebasejapanese 0.1.4
+### braillebasejapanese 0.1.6
 - https://github.com/DukaCrazy/braillebasejapanese
-### braillebaseportuguese 0.1.4
+### braillebaseportuguese 0.1.6
 - https://github.com/DukaCrazy/braillebaseportuguese
-### braillebasearabic 0.1.4
+### braillebasearabic 0.1.6
 - https://github.com/DukaCrazy/braillebasearabic
-### braillebaseenglish 0.1.4
+### braillebaseenglish 0.1.6
 - https://github.com/DukaCrazy/braillebaseenglish
-### braillebaseviet 0.1.4
+### braillebaseviet 0.1.6
 - https://github.com/DukaCrazy/braillebaseviet
+### braillebaseoutput Version 0.1.6
+- https://github.com/DukaCrazy/braillebaseoutput
+### braillebaseio 1.0.2
+- https://github.com/DukaCrazy/braillebaseio
+
 
 # BrailleBase
 
