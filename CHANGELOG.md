@@ -80,3 +80,6 @@ Code Refactoring and Cleanup: Removed structural redundancies to improve system 
 - This behavior was isolated from both the generic rules_02 method and the non-special character flow, ensuring exclusive and specialized handling for this linguistic group.
 Code Refactoring and Cleanup: Removed structural redundancies to improve system readability and maintainability.
 - Performance Optimization: Updated the methods responsible for managing Braille character lists and their respective dependencies, reducing computational overhead.
+
+
+<img src="./logo.png" alt="Logo" width="500" height="493">
