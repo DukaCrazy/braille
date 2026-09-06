@@ -6,10 +6,10 @@ from braillebasearabic import *
 from braillebaseenglish import *
 from braillebaseviet import *
 
-bb = BrailleBase
-bt = BrailleTable
-bbj = BrailleBaseJapanese
-bbp = BrailleBasePortuguese
-bba = BrailleBaseArabic
-bbe = BrailleBaseEnglish
-bbv = BrailleBaseViet
+bb = BrailleBase()
+bt = BrailleTable()
+bbj = BrailleBaseJapanese()
+bbp = BrailleBasePortuguese()
+bba = BrailleBaseArabic()
+bbe = BrailleBaseEnglish()
+bbv = BrailleBaseViet()
