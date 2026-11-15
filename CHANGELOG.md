@@ -1,5 +1,5 @@
 
-## 2026/9/6 - Version 0.3.0
+## 2026/11/15 - Version 0.3.0
 ### braillebase Version 0.3.0
 ### braillebasearabic Version 0.3.0
 ### braillebaseenglish Version 0.3.0
