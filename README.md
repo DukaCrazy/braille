@@ -2,19 +2,23 @@
 # - pip install braille
 
 ## lib
-### braillebase 0.2.9
+### braillebase
 - https://github.com/DukaCrazy/braillebase
-### braillebaseenglish 0.2.9
-- https://github.com/DukaCrazy/braillebaseenglish
-### braillebasejapanese 0.2.9
-- https://github.com/DukaCrazy/braillebasejapanese
-### braillebasekorean 0.2.9
-- https://github.com/DukaCrazy/braillebasekorean
-### braillebaseportuguese 0.2.9
-- https://github.com/DukaCrazy/braillebaseportuguese
-### braillebasearabic 0.2.9
+### braillebasearabic
 - https://github.com/DukaCrazy/braillebasearabic
-### braillebaseviet 0.2.9
+### braillebaseenglish
+- https://github.com/DukaCrazy/braillebaseenglish
+### braillebasefrench
+- https://github.com/DukaCrazy/braillebasefrench
+### braillebaseitalian
+- https://github.com/DukaCrazy/braillebaseitalian
+### braillebasejapanese
+- https://github.com/DukaCrazy/braillebasejapanese
+### braillebasekorean
+- https://github.com/DukaCrazy/braillebasekorean
+### braillebaseportuguese
+- https://github.com/DukaCrazy/braillebaseportuguese
+### braillebaseviet
 - https://github.com/DukaCrazy/braillebaseviet
 
 # Braille Base
@@ -47,6 +51,8 @@ from braillebase import BrailleBase
 class BrailleBaseExemple(BrailleBase):
         def __init__(self):
         super().__init__()
+        #Uppercase / Lowercase Rules
+        self.setting_braille_rules_uppercase("⠠", "⠠⠄")
         #General
         self.append_braille_letter("a", ["⠁"]) 
         self.append_braille_letter("b", ["⠃"]) 
@@ -168,11 +174,10 @@ print(bbe.confidence_test("insert any text"))
 
 ---
 
--> pip install braillebase 0.2.10
 
 Other
 -> pip install braille 
-        -> Japanese, Portuguese, English, Arabic, Viet
+        -> Japanese, Portuguese, English, Arabic, Viet, Korean
 
 
 ## 2) Objective and motivation
@@ -518,6 +523,3 @@ Output: ⠠⠞⠓⠳⠀⠧⠊⠣⠝⠀⠮⠳⠪⠉⠀⠏⠓⠁⠞⠀⠞⠗⠊⠣
 ## Special: Greek Number
 - [Α] ,[Β] ,[Γ] ,[Δ] ,[Ε] ,[Ζ] ,[Η] ,[Θ] ,[Ι] ,[Κ] ,[Λ] ,[Μ] ,[Ν] ,[Ξ] ,[Ο] ,[Π] ,[Ρ] ,[Σ] ,[Τ] ,[Υ] ,[Φ] ,[Χ] ,[Ψ] ,[Ω];
 - [α] ,[β] ,[γ] ,[δ] ,[ε] ,[ζ] ,[η] ,[θ] ,[ι] ,[κ] ,[λ] ,[μ] ,[ν] ,[ξ] ,[ο] ,[π] ,[ρ] ,[σ] ,[τ] ,[υ] ,[φ] ,[χ] ,[ψ] ,[ω] ,[ς];
-
-
-<img src="./logo.png" alt="Logo" width="500" height="493">
